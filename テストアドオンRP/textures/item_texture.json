@@ -1,0 +1,9 @@
+{
+    "resource_pack_name": "テストアドオンRP",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "item": {
+            "textures": "textures/item"
+        }
+    }
+}

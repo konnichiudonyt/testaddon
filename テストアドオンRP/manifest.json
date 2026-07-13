@@ -1,0 +1,21 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "テストアドオンRP",
+        "description": "テストアドオンです",
+        "uuid": "b7e13230-0952-4deb-8a2e-d800502f56e2",
+        "version": "1.1.8",
+        "min_engine_version": [
+            1,
+            26,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "44f41b8b-8385-466d-a1ad-1b7b999c97a4",
+            "version": "1.0.0"
+        }
+    ]
+}
